@@ -2,6 +2,6 @@
 var playlist = {
   coldplay:`fix you`,
 };
-function updatePlaylist(coldplay:`fix you`){
-  playlist[`weeknd`] = `starboy`;
-  return playlist
+function updatePlaylist(playlist, artistName, songTitle
+  playlist[artistName] = songtitle;
+  return playlist;
